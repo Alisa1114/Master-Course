@@ -1,0 +1,9 @@
+[submodule "碩一/第二學期/Information_Security"]
+	path = 碩一/第二學期/Information_Security
+	url = https://github.com/Alisa1114/Information_Security.git
+[submodule "碩一/第一學期/人工神經網路與深度學習/Homework/hw3/YOLOX"]
+	path = 碩一/第一學期/人工神經網路與深度學習/Homework/hw3/YOLOX
+	url = https://github.com/Megvii-BaseDetection/YOLOX.git
+[submodule "碩一/第一學期/人工神經網路與深度學習/Homework/hw4/Unsupervised-Classification"]
+	path = 碩一/第一學期/人工神經網路與深度學習/Homework/hw4/Unsupervised-Classification
+	url = https://github.com/wvangansbeke/Unsupervised-Classification.git
